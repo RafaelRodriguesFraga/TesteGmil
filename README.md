@@ -10,7 +10,7 @@ Este é um teste feito para a Empresa Gmil.
 - Linq
 - CQRS
 
-## Exevutando
+## Executando
 
 Antes de mais nada, temos que configurar a connectionString do banco de dados deixada propositalmente no git
 
