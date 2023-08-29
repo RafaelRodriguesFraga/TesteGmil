@@ -12,7 +12,8 @@ Este é um teste feito para a Empresa Gmil.
 
 ## Executando
 
-Antes de mais nada, temos que configurar a connectionString do banco de dados deixada propositalmente no git
+Antes de mais nada, temos que configurar a connectionString do banco de dados deixada propositalmente no git só para 
+facilitar para quem vai testar
 
 ```json
 "ConnectionStrings": {
