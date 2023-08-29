@@ -23,16 +23,16 @@ facilitar para quem vai testar
 
 Substitua o "seuPassword" pelo password do seu banco de dados.
 
-Após isso, abra o Package Manager Console (View > Other Windows > Package Manager Console) e use o seuinte comando: 
+Após isso, abra o Package Manager Console (View > Other Windows > Package Manager Console) e use o seguinte comando: 
 
 `Update-Database` ou `Update-Database -P TesteGmil.Model`
 
 Isso fará com que ele crie todas as tabelas do banco baseadas na Migration que está no projeto `TesteGmil.Model`. 
-Vale lembrar que é necessário estar com o pacote `Microsoft.EntityFrameworkCore.Tools` para que esse comando funcione
+Vale lembrar que é necessário estar com o pacote `Microsoft.EntityFrameworkCore.Tools` instalado para que esse comando funcione
 
 ## Usando a API
 
-Execute o projeto e será mostrado varias rotas. Cadastre da seguinte ordem:
+Execute o projeto e serão mostradas varias rotas. Cadastre da seguinte ordem:
 
  1. Artists
  2. Genres
